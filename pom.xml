@@ -11,6 +11,8 @@
 
     <modules>
         <module>spring-cloud-eureka</module>
+        <module>spring-cloud-eureka-client</module>
+        <module>spring-web</module>
     </modules>
 
     <properties>
