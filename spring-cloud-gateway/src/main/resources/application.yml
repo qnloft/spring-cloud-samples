@@ -1,0 +1,10 @@
+spring:
+  cloud:
+    gateway:
+      routes:
+      - id: WEB
+        uri: http://127.0.0.1:8661
+        predicates:
+        - Path=/web/{segment}
+        filters:
+        - SetPath=/{segment}
