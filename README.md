@@ -14,7 +14,7 @@
 
 - spring cloud netflix 文档（包含eureka , zuul , hystrix , Ribbon）
 
->[官方文档](http://cloud.spring.io/spring-cloud-netflix/spring-cloud-netflix.html)
+>[官方文档](http://cloud.spring.io/spring-cloud-netflix/spring-cloud-netflix.html)、[官方demo](https://github.com/spring-cloud-samples/eureka)、[官方demo](https://github.com/spring-cloud-samples/customers-stores)
 
 - spring cloud gateway 文档
 
