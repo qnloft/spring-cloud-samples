@@ -29,3 +29,4 @@
 - [第四章：向Eureka注册服务](http://www.qnloft.com/blog/2018/09/07/qing-ning-kai-chespring-cloud-si-xiangeureka-zhu/)
 - [第五章：spring cloud的窗口zuul（路由和过滤器）](http://www.qnloft.com/blog/2018/09/16/qing-ning-kai-chespring-cloud-wu-spring-cloud-de/)
 - [第六章：Spring Cloud Gateway与zuul使用对比](http://www.qnloft.com/blog/2018/09/16/qing-ning-kai-chespring-cloud-liu-spring-cloud-ga/)
+- [第七章：断路器 Hystrix](http://www.rmworking.com/blog/2018/09/20/qing-ning-kai-chespring-cloud-qi-duan-lu-qi-hystr/)

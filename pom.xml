@@ -11,10 +11,10 @@
 
     <modules>
         <module>spring-cloud-eureka</module>
-        <module>spring-cloud-eureka-client</module>
         <module>spring-web</module>
         <module>spring-cloud-zuul</module>
         <module>spring-cloud-gateway</module>
+        <module>spring-cloud-hystrix</module>
     </modules>
 
     <properties>
