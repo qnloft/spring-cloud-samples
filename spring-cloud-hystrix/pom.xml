@@ -12,11 +12,6 @@
     <artifactId>springcloud-hystrix</artifactId>
 
     <dependencies>
-        <!-- spring boot web -->
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-web</artifactId>
-        </dependency>
 
         <!-- 生产环境时监视和管理应用程序 -->
         <dependency>
@@ -29,7 +24,7 @@
             <artifactId>spring-cloud-starter-netflix-hystrix</artifactId>
         </dependency>
 
-        <!-- Hystrix 仪表盘 -->
+        <!-- Hystrix 仪表盘-->
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-netflix-hystrix-dashboard</artifactId>
